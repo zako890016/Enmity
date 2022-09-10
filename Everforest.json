@@ -1,0 +1,157 @@
+{
+  "name": "Everforest",
+  "description": "Enmity theme based off of https://github.com/sainnhe/everforest",
+  "version": "1.0",
+  "authors": [
+    {
+      "name": "flower",
+      "id": "836452332387565589"
+    }
+  ],
+  "theme_color_map": {
+    "HEADER_PRIMARY": [
+      "#80887c",
+      "#060607"
+    ],
+    "HEADER_SECONDARY": [
+      "#80887c",
+      "#4f5660"
+    ],
+    "TEXT_NORMAL": [
+      "#d3c6aa",
+      "#2e3338"
+    ],
+    "TEXT_MUTED": [
+      "#e67e80",
+      "#747f8d"
+    ],
+    "INTERACTIVE_NORMAL": [
+      "#a7c080",
+      "#4f5660"
+    ],
+    "INTERACTIVE_HOVER": [
+      "#dcddde",
+      "#2e3338"
+    ],
+    "INTERACTIVE_ACTIVE": [
+      "#ffffff",
+      "#060607"
+    ],
+    "INTERACTIVE_MUTED": [
+      "#80887c",
+      "#c7ccd1"
+    ],
+    "BACKGROUND_PRIMARY": [
+      "#2b3339",
+      "#ffffff"
+    ],
+    "BACKGROUND_SECONDARY": [
+      "#2b3339",
+      "#f2f3f5"
+    ],
+    "BACKGROUND_SECONDARY_ALT": [
+      "#445055",
+      "#ebedef"
+    ],
+    "BACKGROUND_TERTIARY": [
+      "#23292e",
+      "#e3e5e8"
+    ],
+    "BACKGROUND_ACCENT": [
+      "#a7c080",
+      "#747f8d"
+    ],
+    "BACKGROUND_FLOATING": [
+      "#23292e",
+      "#FFFFFF"
+    ],
+    "BACKGROUND_MOBILE_PRIMARY": [
+      "#23292e",
+      "#f8f9f9"
+    ],
+    "BACKGROUND_MOBILE_SECONDARY": [
+      "#323c41",
+      "#ffffff"
+    ],
+    "BACKGROUND_NESTED_FLOATING": [
+      "#2b3339",
+      "#ffffff"
+    ],
+    "BACKGROUND_MESSAGE_HOVER": [
+      "rgba(255, 255, 255, 0.02)",
+      "#FFFFFF"
+    ],
+    "BACKGROUND_MODIFIER_HOVER": [
+      "rgba(255, 255, 255, 0.02)",
+      "hsla(214, 9.9%, 50.4%, 0.08)"
+    ],
+    "BACKGROUND_MODIFIER_ACTIVE": [
+      "rgba(255, 255, 255, 0.03)",
+      "hsla(214, 9.9%, 50.4%, 0.16)"
+    ],
+    "BACKGROUND_MODIFIER_SELECTED": [
+      "rgba(255, 255, 255, 0.04)",
+      "hsla(214, 9.9%, 50.4%, 0.24)"
+    ],
+    "BACKGROUND_MODIFIER_ACCENT": [
+      "transparent",
+      "hsla(240, 7.7%, 2.5%, 0.08)"
+    ],
+    "SCROLLBAR_THIN_THUMB": [
+      "#2a1858",
+      "hsla(217, 7.6%, 33.5%, 0.3)"
+    ],
+    "SCROLLBAR_THIN_TRACK": [
+      "transparent",
+      "hsla(0, 0%, 0%, 0)"
+    ],
+    "SCROLLBAR_AUTO_THUMB": [
+      "#2a1858",
+      "#cccccc"
+    ],
+    "SCROLLBAR_AUTO_TRACK": [
+      "rgba(0, 0, 0, 0.1)",
+      "#f2f2f2"
+    ],
+    "CHANNELTEXTAREA_BACKGROUND": [
+      "#111111",
+      "#ebedef"
+    ],
+    "CHANNELS_DEFAULT": [
+      "#c8c8c8",
+      "#6a7480"
+    ],
+    "TEXT_LINK": [
+      "#7ebab2",
+      "#000000"
+    ],
+    "KEYBOARD": [
+      "#2b3339",
+      "#FFFFFF"
+    ]
+  },
+  "colours": {
+    "PRIMARY_DARK": "#747474",
+    "PRIMARY_DARK_100": "#FFFFFF",
+    "PRIMARY_DARK_200": "#FFFFFF",
+    "PRIMARY_DARK_300": "#B6B6B6",
+    "PRIMARY_DARK_360": "#C8C8C8",
+    "PRIMARY_DARK_400": "#bebee3",
+    "PRIMARY_DARK_500": "#a7c080",
+    "PRIMARY_DARK_600": "#364047",
+    "PRIMARY_DARK_630": "#1a1b21",
+    "PRIMARY_DARK_700": "#364047",
+    "PRIMARY_DARK_800": "#445055",
+    "BRAND_NEW": "#80887c",
+    "STATUS_RED": "#a7c080",
+    "STATUS_GREEN_600": "#a7c080"
+  },
+  "unsafe_colors": {
+    "CHAT_GREY": "#364047"
+  },
+  "background": {
+    "blur": 0.1,
+    "url": "https://raw.githubusercontent.com/zako890016/Enmity/main/IMG_2783.jpg",
+    "alpha": 1.0
+  }
+}
